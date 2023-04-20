@@ -1,6 +1,6 @@
 Исследование продаж по видео играм
 
-<p align="center"><img src="https://github.com/ArtemPlgn/Data_analyst_project/blob/main/games.jpg" alt="Data_analyst_project/blob/main/games" border="0" style='width:500px;height:350px'/>
+<p align="center"><img src="https://github.com/ArtemPlgn/Data_analyst_project/blob/main/games_sales/games.jpg" alt="Data_analyst_project/blob/main/games_sales/games" border="0" style='width:500px;height:350px'/>
 
   В комании "Тралала", которая является ведущей в области анализа игр, пришел некоторый заказ на исследование. В котором необходимо найти/рассчитать следующие показатели:
   
