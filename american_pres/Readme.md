@@ -1,6 +1,6 @@
 Веб-скрейпинг из Википедии и анализ данных на примере страницы с президентами в США
 
-<p align="center"><img src="https://github.com/ArtemPlgn/Data_analyst_project/blob/main/american_pres/web_scr.jpg" alt="Data_analyst_project/blob/main/games_sales/games" border="0" style='width:600px;height:400px'/>
+<p align="center"><img src="https://github.com/ArtemPlgn/Data_analyst_project/blob/main/american_pres/web_scrap-696x400.jpg" alt="Data_analyst_project/blob/main/games_sales/games" border="0" style='width:600px;height:400px'/>
 
 Компания "Тралала" решила проверить навыки работников и поручила одному из них:
 
