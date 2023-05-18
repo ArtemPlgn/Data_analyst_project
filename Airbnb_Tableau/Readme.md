@@ -18,6 +18,15 @@ https://public.tableau.com/app/profile/artem.artem/viz/First_Pet_Dashboard/Pet_D
   
   
   <p align="center"><img src="https://github.com/ArtemPlgn/Data_analyst_projects/blob/main/Airbnb_Tableau/Pet_Dashboard.png" alt="Data_analyst_projects/blob/main/Airbnb_Tableau" border="0" style='width:1000px;height:562px'/>
+   
+   
     
-    **В итоге**
+ **ВЫВОД**
+    Был разработан дашборд на котором можно заметить, что:
+    
+    - Лучшее время года для сдачи апартаментов в аренду это летняя пора или рождество в декабре.
+    - Было просчитано какая средняя цена в каждом из почтовых индексов(районов) и их географическое расположение на карте.
+    - Так же были найдены средние цены апартаментов зависящие от количеству спальных.
+    - И посчитано сколько приходиться апартаментов на разное количество спальных комнат.
+    
   
