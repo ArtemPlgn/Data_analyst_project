@@ -17,3 +17,5 @@
 https://public.tableau.com/app/profile/artem.artem/viz/First_Pet_Dashboard/Pet_Dashboard?publish=yes
   
   
+  <p align="center"><img src="https://github.com/ArtemPlgn/Data_analyst_projects/blob/main/Airbnb_Tableau/Pet_Dashboard.png" alt="Data_analyst_projects/blob/main/Airbnb_Tableau" border="0" style='width:600px;height:400px'/>
+  
