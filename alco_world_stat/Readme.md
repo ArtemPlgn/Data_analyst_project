@@ -4,7 +4,7 @@
 <p align="center"><img src="https://github.com/ArtemPlgn/Data_analyst_projects/blob/main/alco_world_stat/alco.jpg" alt="Data_analyst_projects/blob/main/alco_world_stat" border="0" style='width:600px;height:400px'/>
 
   
-В далеком 2017 году, когда компания "Тралала" только набирала обороты. К ним обратился один из знакомых с просьбой проанализировать рынок Airbnb USA в городе Сиэтл с Космической иглой за прошлый год. Он хотел бы приобрести недвижимость и начать сдавать ее в аренду. Поэтому нам была дана задача построить показательный дашборд, в котором нам необходимо было бы выполнить следующие задачи:
+Компания "Тралала" решила поручить своим работникам сделать дашборд по имеющимся данным. И один из них решил, что покажет следующие результаты поставленых вопросов:
   
   1. Расчитать среднюю цену апартаментов по расположению почтовых индексов(Районов);
   2. Показать географию средних цен апартаментов по расположению почтовых индексов(Районов);
@@ -14,7 +14,7 @@
   
   
 В итоге, по последнем слову технологий из будущего, был разработан дашборд:
-https://public.tableau.com/app/profile/artem.artem/viz/First_Pet_Dashboard/Pet_Dashboard?publish=yes
+https://public.tableau.com/app/profile/artem.artem/viz/Second_Pet_Dashboard/Dashboard1?publish=yes
   
   
   <p align="center"><img src="https://github.com/ArtemPlgn/Data_analyst_projects/blob/main/alco_world_stat/Dashboard.png" alt="Data_analyst_projects/blob/main/alco_world_stat" border="0" style='width:1000px;height:562px'/>
